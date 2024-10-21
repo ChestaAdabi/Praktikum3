@@ -35,7 +35,7 @@ Program ini ditulis dalam bahasa Python dan berfungsi untuk menentukan bilangan 
 
 ## Flowchart
 
-![Flowchart](path_to_flowchart_image.png)
+![Flowchart](flowchart_bilangan_terbesar.png)
 
 ## Screenshot Hasil Eksekusi
 
