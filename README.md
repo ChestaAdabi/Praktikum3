@@ -39,5 +39,5 @@ Program ini ditulis dalam bahasa Python dan berfungsi untuk menentukan bilangan 
 
 ## Screenshot Hasil Eksekusi
 
-![Hasil Eksekusi Program](path_to_screenshot.png)
+![Hasil Eksekusi Program](program bilangan terbesar.png)
 
