@@ -11,6 +11,17 @@ Program ini ditulis dalam bahasa Python dan berfungsi untuk menentukan bilangan 
    - Jika bilangan kedua lebih besar dari bilangan pertama dan ketiga, maka bilangan kedua dikembalikan sebagai hasil.
    - Jika kedua kondisi di atas tidak terpenuhi, maka bilangan ketiga dianggap sebagai yang terbesar.
 3. Hasil dari perbandingan akan ditampilkan ke layar sebagai output.
+   
+## Penjelasan Program
+
+1. Input: Program meminta tiga input bilangan dari pengguna.
+2. Proses:
+  - Program membandingkan bilangan-bilangan menggunakan pernyataan kondisional (if, elif, else).
+  - Pertama, dicek apakah bilangan pertama (a) lebih besar dari kedua bilangan lainnya.
+  - Jika tidak, dilanjutkan dengan pengecekan bilangan kedua (b).
+  - Jika keduanya tidak memenuhi kondisi, maka bilangan ketiga (c) dianggap sebagai yang terbesar.
+3. Output: Setelah menentukan bilangan terbesar, program mencetak hasilnya ke layar.
+4. Selesai: Program selesai setelah menampilkan bilangan terbesar
 
 ## Kebutuhan
 
@@ -21,3 +32,12 @@ Program ini ditulis dalam bahasa Python dan berfungsi untuk menentukan bilangan 
 1. Pastikan Python sudah terpasang di komputer Anda.
 2. Simpan script program dalam file Python, misalnya `bilangan_terbesar.py`.
 3. Jalankan program dengan perintah berikut di terminal atau command prompt:
+
+## Flowchart
+
+![Flowchart](path_to_flowchart_image.png)
+
+## Screenshot Hasil Eksekusi
+
+![Hasil Eksekusi Program](path_to_screenshot.png)
+
